@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiApi", "HaiApi\HaiApi.csproj", "{27F03CAE-DA6D-48CA-81F6-92193CEB572D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F03CAE-DA6D-48CA-81F6-92193CEB572D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F03CAE-DA6D-48CA-81F6-92193CEB572D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F03CAE-DA6D-48CA-81F6-92193CEB572D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F03CAE-DA6D-48CA-81F6-92193CEB572D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DE8928-DC1A-41EB-88EA-3ED115D8ADE9}
+	EndGlobalSection
+EndGlobal
